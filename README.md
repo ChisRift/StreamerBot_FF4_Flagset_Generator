@@ -1,4 +1,5 @@
-##Streamerbot FF4 Flagset Generator code
+## Streamerbot FF4 Flagset Generator code
+# By ChisRift51
 
 This code was written by me to work in Streamerbot as an Execute C# Code action.
 
